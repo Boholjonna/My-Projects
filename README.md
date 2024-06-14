@@ -3,7 +3,7 @@
 
 
 ------------------------------------------------------------------
-## Here is the overview of the Library Management System we created 
+# Here is the overview of the Library Management System we created 
 
 #Lib.IT
 ===
@@ -16,6 +16,11 @@
   - Every user can borrow books, within seven days period only, thus after seven days they will need to return it. The librarian will send them notification to return the book, with a specific date in the library, before the day of return. If the user fails to return the book within that day, the user will be charged of fee. Every book is charged with Php 10 pesos for every overdue week. If the user has an overdue book, he will not be able to access his account. A small window will appear when he logs in to his account that he has an overdue book. He needs to pay for it by gcash, or go to the physical library and pay to the librarian. Once the user pays and free of charge, his due dates will be extended by 7 days for every overdue book and he can already access his acoount.
   - The user also has account settings in which he can update his contact informations but not username, password and ID number since it is created and given by the admin.
   - The user can also track his own history, from borrowing, reserving, requesting the librarian to return, and cancelling reservation, of book/s, and also his history of paid overdues.
+  - The user also can update his own profile picture to another photo.
+
+* LIBRARIAN INTERFACE
+- 
+    
     
 
 
