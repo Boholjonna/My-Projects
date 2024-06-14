@@ -20,20 +20,20 @@
   - The user also can update his own profile picture to another photo.
 
 * LIBRARIAN INTERFACE
- - The librarian can view total number of books and book counts.
- - The librarian can add or remove books, and the books count updates accordingly. If the book title already exists, it will not allow to add it again but it can increment  the book count for that book title. If the book title does not exist, it can be added to the books.
- - The librarian can view return requests from the user. Once the user will go to the library and return the books to the librarian, then the librarian will confirm that the user returns the book. The user will be removed from the borrowing list, since he already returned the book.
- - The librarian can view those users who have overdue books, including its overdue dates, name of the user and the amount payable.
- - The librarian can confirm user payments if they can only pay in cash, and user overdue dates will be extended as well.
- - The librarian also can check payment history, wether online or personal payments, the amount of payment, name of the user and the date paid.
- - The librarian can check total earnings from overdue books.
- - The librarian can view book reservations, the name of the user who reserved it, and the date of reservation. Once the books is available, the librarian can send notification to the earlier users who reserved the book. The notification is to update the user that the reserved book is already available, and the user is given specific date for him to go to the library and borrow the book, if he fails to be in the library in that specific date, his reservation will automatically be cancelled and other user's reservation number will also update accordingly.
+  - The librarian can view total number of books and book counts.
+  - The librarian can add or remove books, and the books count updates accordingly. If the book title already exists, it will not allow to add it again but it can increment  the book count for that book title. If the book title does not exist, it can be added to the books.
+  - The librarian can view return requests from the user. Once the user will go to the library and return the books to the librarian, then the librarian will confirm that the user returns the book. The user will be removed from the borrowing list, since he already returned the book.
+  - The librarian can view those users who have overdue books, including its overdue dates, name of the user and the amount payable.
+  - The librarian can confirm user payments if they can only pay in cash, and user overdue dates will be extended as well.
+  - The librarian also can check payment history, wether online or personal payments, the amount of payment, name of the user and the date paid.
+  - The librarian can check total earnings from overdue books.
+  - The librarian can view book reservations, the name of the user who reserved it, and the date of reservation. Once the books is available, the librarian can send notification to the earlier users who reserved the book. The notification is to update the user that the reserved book is already available, and the user is given specific date for him to go to the library and borrow the book, if he fails to be in the library in that specific date, his reservation will automatically be cancelled and other user's reservation number will also update accordingly.
 
 * ADMIN INTERFACE
- - The admin can add and remove user and librarian accounts.
- - The admin can view earnings and earning history just as the librarian can
- - The admin can generate analytics, specifically the percentage of books, its cateogory, how many times it is borrowed, total number of books, book counts, how many users and librarians and the top 5 most borrowed books.
- - The admin can also access librarian interface
+  - The admin can add and remove user and librarian accounts.
+  - The admin can view earnings and earning history just as the librarian can
+  - The admin can generate analytics, specifically the percentage of books, its cateogory, how many times it is borrowed, total number of books, book counts, how many users and librarians and the top 5 most borrowed books.
+  - The admin can also access librarian interface
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
