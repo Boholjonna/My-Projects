@@ -14,12 +14,24 @@
   - Users can borrow and reserve books, anytime, but if the books are available, they can not reserve, however, they are encouraged to borrow it. Thus, they can only reserve when the books are all borrowed.
   - Each time the user borrows or reserves a book, its date of borrow is tracked.
   - Every user can borrow books, within seven days period only, thus after seven days they will need to return it. The librarian will send them notification to return the book, with a specific date in the library, before the day of return. If the user fails to return the book within that day, the user will be charged of fee. Every book is charged with Php 10 pesos for every overdue week. If the user has an overdue book, he will not be able to access his account. A small window will appear when he logs in to his account that he has an overdue book. He needs to pay for it by gcash, or go to the physical library and pay to the librarian. Once the user pays and free of charge, his due dates will be extended by 7 days for every overdue book and he can already access his acoount.
+  - Each user has reservation number when they reserve the same book. Each reservation number adheres to timeline accordingly. When a user cancels reservation of the same book, other user's reservation number will update accordingly.
   - The user also has account settings in which he can update his contact informations but not username, password and ID number since it is created and given by the admin.
   - The user can also track his own history, from borrowing, reserving, requesting the librarian to return, and cancelling reservation, of book/s, and also his history of paid overdues.
   - The user also can update his own profile picture to another photo.
 
 * LIBRARIAN INTERFACE
-- 
+- The librarian can add or remove books. If the book title already exists, it will not allow to add it again but it can increment  the book count for that book title. If the book title does not exist, it can be added to the books.
+- The librarian can view return requests from the user. Once the user will go to the library and return the books to the librarian, then the librarian will confirm that the user returns the book. The user will be removed from the borrowing list, since he already returned the book.
+- The librarian can view those users who have overdue books, including its overdue dates, name of the user and the amount payable.
+- The librarian can confirm user payments if they can only pay in cash, and user overdue dates will be extended as well.
+- The librarian also can check payment history, wether online or personal payments, the amount of payment, name of the user and the date paid.
+- The librarian can check total earnings from overdue books.
+- The librarian can view book reservations, the name of the user who reserved it, and the date of reservation. Once the books is available, the librarian can send notification to the earlier users who reserved the book. The notification is to update the user that the reserved book is already available, and the user is given specific date for him to go to the library and borrow the book, if he fails to be in the library in that specific date, his reservation will automatically be cancelled and other user's reservation number will also update accordingly.
+
+* ADMIN INTERFACE
+-
+
+  
     
     
 
