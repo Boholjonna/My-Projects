@@ -2,7 +2,7 @@
 
 
 ------------------------------------------------------------------
- ## Here is the overview of the Library Management System we created 
+ ## Here is the overview of the Library Management System  LMS, we created 
 
  ## #Lib.IT
 ===
