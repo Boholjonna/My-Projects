@@ -4,7 +4,7 @@
 ------------------------------------------------------------------
  ## Here is the overview of the Library Management System we created 
 
- ##Lib.IT
+ ## #Lib.IT
 ===
 
 #Library Management System Functionalities
