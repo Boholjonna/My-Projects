@@ -1,6 +1,4 @@
-# I saved all the projects I created in this repository. 
-
-
+# First project
 ------------------------------------------------------------------
  ## Here is the overview of the Library Management System  LMS, we created 
 
